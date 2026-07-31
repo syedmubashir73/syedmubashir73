@@ -20,7 +20,7 @@ jobs:
           fetch-depth: 1
 
       - name: Update README with Recent Activity
-        uses: jamesgeorge007/github-activity-readme@v2.25.14
+        uses: jamesgeorge007/github-activity-readme@v0.4.5
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
