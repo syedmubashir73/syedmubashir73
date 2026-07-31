@@ -20,7 +20,7 @@ jobs:
       - name: Update README with Recent Activity
         uses: jamesgeorge007/github-activity-readme@v0.4.5
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: 'chore: update recent GitHub activity'
           MAX_LINES: 5
