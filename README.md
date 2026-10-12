@@ -8,15 +8,7 @@
 
 </div>
 
-```ts
-const developer = {
-  name: "Syed Mubashir Ali",
-  role: "Front-End Engineer & Creative Web Developer",
-  coreFocus: ["High-Performance Web Apps", "Interactive UI/UX", "Canvas & Graphics Programming"],
-  currentStack: ["HTML5", "CSS3", "JavaScript (ES6+)", "Canvas API", "Web Audio API", "GSAP", "Tailwind CSS"],
-  philosophy: "Building buttery-smooth, zero-dependency, and visual-first web experiences.",
-};
-```
+
 
 ## ⚡ About Me
 
